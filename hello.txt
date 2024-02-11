@@ -1,1 +1,5 @@
- 
+create hit repo:
+remote:
+github e repo toirl
+
+local
